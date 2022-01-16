@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.image {
+  height: 200px;
+  width: 280px;
+}
+.list-item-style {
+  list-style: none;
+  width: 20vw;
+  margin: 10px;
+}
+.heading-name {
+  font-size: 20px;
+}
+.image-button {
+  border: none;
+  background-color: transparent;
+}

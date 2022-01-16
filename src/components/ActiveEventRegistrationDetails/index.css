@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.image_yet_to_registered {
+  height: 400px;
+  width: 400px;
+}
+.button {
+  background-color: #0967d2;
+  width: 150px;
+  border-radius: 5px;
+  border: none;
+  height: 36px;
+  color: #ffffff;
+}
+.image_registered {
+  height: 80px;
+  width: 80px;
+}
